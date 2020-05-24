@@ -455,7 +455,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -477,32 +477,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/poulet-grill-2000x1125-800x450.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/poulet-grill-2000x1125-800x450-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/chapatis-1280x849-800x531.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/chapatis-1280x849-800x531-800x531.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/yassa-maf-2000x1125.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/yassa-maf-2000x1125-800x513.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -566,8 +540,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/samossa-540x960-540x303.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/samossa-540x960-540x303-540x303.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/20200522-123509-2000x1125.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20200522-123509-2000x1125-800x450.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -592,6 +566,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/yassa-maf-2000x1125.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/yassa-maf-2000x1125-800x513.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/20200416-142657-2000x1125.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20200416-142657-2000x1125-800x450.jpg",
                 "alt": "",
@@ -599,6 +586,19 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-05-14-at-15.41.11-2000x1125.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-05-14-at-15.41.11-2000x1125-800x371.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           }
