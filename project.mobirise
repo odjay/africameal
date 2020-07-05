@@ -64,7 +64,8 @@
     "witsec-mailform-recaptcha-score": "0.5",
     "witsec-mailform-recaptcha-hidebadge": false,
     "witsec-mailform": true,
-    "google-analytics": "<!-- Hotjar Tracking Code for africameal.ch -->\n<script>\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:1887663,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>"
+    "google-analytics": "",
+    "htmltag": "undefined"
   },
   "pages": {
     "index.html": {
@@ -72,7 +73,7 @@
         "main": true,
         "title": "Africa meal",
         "meta_descr": "Africa meal , traiteur cuisine africaine plat à l'emporter",
-        "header_custom": "",
+        "header_custom": "\n<!-- Hotjar Tracking Code for africameal.ch -->\n<script>\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:1887663,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>",
         "footer_custom": "",
         "html_before": ""
       },
