@@ -955,12 +955,3 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #232323, #45505b) !important;
 }
-.cid-sioe62ESpJ {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-sioe62ESpJ .mbr-section {
-  text-align: center;
-  color: #fff;
-}
