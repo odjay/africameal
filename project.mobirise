@@ -67,8 +67,8 @@
     "google-analytics": "",
     "htmltag": "<html>",
     "publishChangesOnly": true,
-    "header_custom": "\n<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{\"token\": \"d4775a482c16444c8a49fc4021fb9793\"}'></script><!-- End Cloudflare Web Analytics -->",
-    "mbrsiteDomain": "dfglf66yh9"
+    "header_custom": "",
+    "mbrsiteDomain": "34aldn7scm"
   },
   "pages": {
     "index.html": {
@@ -76,7 +76,7 @@
         "main": true,
         "title": "Africa meal",
         "meta_descr": "Africa meal , traiteur cuisine africaine plat à l'emporter",
-        "header_custom": "<!-- Hotjar Tracking Code for http://www.africameal.ch -->\n<script>\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:2098760,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>",
+        "header_custom": "<!-- Hotjar Tracking Code for http://www.africameal.ch -->\n<script>\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:2098760,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>\n\n<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{\"token\": \"d4775a482c16444c8a49fc4021fb9793\"}'></script><!-- End Cloudflare Web Analytics -->",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/africamealbanana-3-2000x889.png"
