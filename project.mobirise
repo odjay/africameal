@@ -48,7 +48,7 @@
     "siteUrl": false,
     "gdpr": false,
     "uniqCompNum": 46,
-    "versionPublish": "5.2.0",
+    "versionPublish": "5.6.8",
     "cookiesAlert": false,
     "screenshot": "screenshot.png",
     "witsec-mailform-to": "info@africameal.ch",
@@ -66,7 +66,9 @@
     "witsec-mailform": true,
     "google-analytics": "",
     "htmltag": "<html>",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "header_custom": "\n<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{\"token\": \"d4775a482c16444c8a49fc4021fb9793\"}'></script><!-- End Cloudflare Web Analytics -->",
+    "mbrsiteDomain": "dfglf66yh9"
   },
   "pages": {
     "index.html": {
